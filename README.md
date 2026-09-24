@@ -60,7 +60,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 > **💡 Note on Open-Source Logistics:**
 > Network-scale freight tracking relies heavily on commercial carrier API agreements and telematics integrations. However, powerful open-source foundation engines exist for self-hosted GPS tracking, routing, ETA distance calculation, and AI logistics integrations.
 
-| Repository 📦 | GitHub Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
+| Repository 📦 | GitHub_Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Project-OSRM / osrm-backend](https://github.com/Project-OSRM/osrm-backend)** | [![Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers) | High-performance C++ routing engine for OpenStreetMap data. | Shortest-path calculations & ETA matrices |
 | **[traccar / traccar](https://github.com/traccar/traccar)** | [![Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) | Leading open-source GPS tracking system supporting 200+ protocols & 2000+ models. | Private fleet & IoT asset telematics |
